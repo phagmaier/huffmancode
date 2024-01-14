@@ -1,7 +1,3 @@
-'''
-MY CODE CODE 1 which i suspect is incorrect somehow
-'''
-
 class Node:
 	def __init__(self,left,right):
 		self.left = left
