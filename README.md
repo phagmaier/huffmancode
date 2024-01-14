@@ -1,6 +1,6 @@
 # SUMMARY
 Was bored and wanted to see if I could remeber how to do this
-by hand. It's a basic Huffman encoding algorithm that can be used
+by hand. It's a basic Huffman coding algorithm that can be used
 for compression and it encodes characters into bits. The more frequently
 the character in the alphabet is used in the string the smaller the
 number of bits needed to represent it. Huffman algorithm ensures that
